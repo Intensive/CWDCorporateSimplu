@@ -1,0 +1,17 @@
+/* line 1, sass/_navigation.scss */
+.navig {
+  border: none;
+}
+
+/* line 5, sass/style.scss */
+#sasstest {
+  top: 0;
+  color: #50b4e6;
+}
+
+/* line 10, sass/style.scss */
+.simple {
+  -webkit-border-radius: 4px 4px;
+  -moz-border-radius: 4px / 4px;
+  border-radius: 4px / 4px;
+}
